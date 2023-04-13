@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Anwar",
+      "school": "SMK Bina Mandiri",
+      "prodi": "Administrasi Bisnis",
+      "id": 4
+    },
+    {
+      "name": "Ibnu Suja'i",
+      "school": "SMK Daruul Anwar",
+      "prodi": "Management Pemasaran",
+      "id": 5
+    },
+    {
+      "name": "Dede Munawar Risman",
+      "school": "SMA Terpadu Babussalam",
+      "prodi": "Management Informatika",
+      "id": 6
+    }
+  ]
+}
